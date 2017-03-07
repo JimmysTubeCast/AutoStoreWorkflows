@@ -11,23 +11,23 @@ Within the **Capture Components** folder, the *icons* should be housed in a fold
     - [Folder] **Icons**
       - [Folder] **Capture Components** (folder)
         - [Folder] **AutoCapture** (Including QuickCapture Pro)
-          - [File] (**.bmp*)
+          - [File] Icon files (**.bmp*)
         - [Folder] **HP** (OXPd)
-          - [File] (**.gif*, App Only)
+          - [File] Icon files (**.gif*, App Only)
         - [Folder] **Konica** (Konica Minolta OpenAPI)
-          - [File] (**.png*, 48x48, 8-bit color depth)
+          - [File] Icon files (**.png*, 48x48, 8-bit color depth)
         - [Folder] **KonicaWeb** (Konica Minolta iOption)
-          - [File] (**.png*)
+          - [File] Icon files (**.png*)
         - [Folder] **Kyocera** (HyPAS)
-          - [File] (**.gif*, **.jpg*, **.png*)
+          - [File] Icon files (**.gif*, **.jpg*, **.png*)
         - [Folder] **Lexmark**
-          - [File] (**.gif*, **.jpg*, **.png*, *scan button only*)
+          - [File] Icon files (**.gif*, **.jpg*, **.png*, *scan button only*)
         - [Folder] **Ricoh** (Ricoh ESA/SDKJ2)
-          - [File] (**.bmp*)
+          - [File] Icon files (**.bmp*)
         - [Folder] **RicohWeb**
-          - [File] (**.png*)
+          - [File] Icon files (**.png*)
         - [Folder] **WebCapture**
-          - [File] (**.gif*, **.png*)
+          - [File] Icon files (**.gif*, **.png*)
         - [Folder] **Xerox** (Xerox EIP)
-          - [File] (**.png*)
+          - [File] Icon files (**.png*)
 

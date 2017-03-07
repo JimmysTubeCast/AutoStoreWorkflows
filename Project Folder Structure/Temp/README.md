@@ -12,6 +12,7 @@ In certain cases where additional computing power needs to be spread accross lar
 
 Using a well organized naming convention for Task names is easy to identify, and standardization in naming provides an opportunity for the worklfow creator to simplyfy useful and logical RRT names for dynamic routing within the configuration.
 
+
 ### Capture Tasks
 When naming a *Capture* task, it is best to use a lowercase *'c'* at the beginning of the task name, followed by the name of the capture type. 
 
@@ -30,9 +31,13 @@ Within each *Capture* task folder, the following folders should be used for temp
   - TaskHome
 
 > Example:
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\cAutoCapture\CaptureHome
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\cAutoCapture\Rejected
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\cAutoCapture\TaskHome
+
 
 ### Process Tasks
 When naming a *Process* task, it is best to use a lowercase *'p'* at the beginning of the task name, followed by the functional name of the task.
@@ -49,10 +54,15 @@ Within each *Process* task folder, the following folders should be used for temp
   - Working
 
 > Example:
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\pOCR\Inbound
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\pOCR\Rejected
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\pOCR\TaskHome
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\pOCR\Working
+
 
 ### Route Tasks
 When naming a *Route* task, it is best to use a lowercase *'r'* at the beginning of the task name, followed by the routing type for the task.
@@ -70,8 +80,12 @@ Within each *Route* task folder, the following folders should be used for tempor
   - Working
 
 > Example:
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\rToEmail\Inbound
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\rToEmail\Rejected
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\rToEmail\TaskHome
+> 
 > C:\AutoStoreWorkflows\Sample Project\Temp\rToEmail\Working
 
