@@ -7,7 +7,7 @@ Within the **Capture Components** folder, the scripts should be housed in a fold
 - [Folder] **AutoStoreWorkflows**
   - [Folder] **Project Folder**
     - [Folder] **Code**
-      - [Folder] **Capture Components** (folder)
+      - [Folder] **Capture Components**
         - [Folder] **AutoCapture** (Including QuickCapture Pro)
           - [File] *AutoCapture_FormName.vbs*
         - [Folder] **HP**
