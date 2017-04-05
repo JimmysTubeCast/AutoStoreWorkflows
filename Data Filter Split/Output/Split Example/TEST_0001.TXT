@@ -1,0 +1,15 @@
+THIS FILE IS FOR TESTING PURPOSES
+
+WebCapture
+--------------------------------------------------------------------------------
+TextValue=1001 | John | Smith | 99001 | 10/17/1977
+Delimiter=|
+FormName=Split Example
+
+Data Filter
+--------------------------------------------------------------------------------
+TextValueParts,1=1001 
+TextValueParts,2= John 
+TextValueParts,3= Smith 
+TextValueParts,4= 99001 
+TextValueParts,5= 10/17/1977

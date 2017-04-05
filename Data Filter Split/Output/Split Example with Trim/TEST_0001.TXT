@@ -1,0 +1,15 @@
+THIS FILE IS FOR TESTING PURPOSES
+
+WebCapture
+--------------------------------------------------------------------------------
+TextValue=1001 | John | Smith | 99001 | 10/17/1977
+Delimiter=|
+FormName=Split Example with Trim
+
+Data Filter
+--------------------------------------------------------------------------------
+PersonID=1001
+FirstName=John
+LastName=Smith
+ZipCode=99001
+BirthDate=10/17/1977
