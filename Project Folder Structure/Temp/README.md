@@ -1,4 +1,4 @@
-# About The 'Temp' Folder
+# About the 'Temp' Folder
 
 This folder is used to house local working directories organized for each task inside of the Project folder. As a best practice, the name of the folder inside the **'Temp'** folder should be the same as the **'Task Name'** used.
 
